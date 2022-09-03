@@ -1,0 +1,33 @@
+:root{
+    --coluna: #999999;
+    --time: #666666;
+}
+body{
+    font-family: Arial;
+}
+th{
+    font-size: 13px;
+    color: var(--coluna);
+    font-weight: bold;
+    text-align: center;
+}
+.time{
+    font-size: 14px;
+    color: var(--time);
+    font-weight: bold;
+    text-align: left;
+}
+table{
+    border-color: #DDDDDD;
+    margin: 0 auto;
+    font-size: 14px;
+    color: #666666;
+    font-weight: normal;
+    text-align: center;
+}
+.pts{
+    font-size: 14px;
+    color: black;
+    font-weight: bold;
+    text-align: center;
+}

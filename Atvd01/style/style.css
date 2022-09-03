@@ -1,0 +1,9 @@
+.format{
+    font-family:Verdana, sans-serif;
+    font-size: 12px;
+    text-align: center;
+    color: red;
+    line-height: 2;
+    width: 60%;
+    margin: 0 auto;
+}

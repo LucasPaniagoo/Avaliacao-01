@@ -1,0 +1,40 @@
+:root{
+    --azul-escuro: #0D5188;
+    --azul-medio: #66C5E3;
+    --azul-claro: #C7E7F3;
+}
+table{
+    border-collapse: collapse;
+    width: 600px;
+    font-family: Arial;
+    font-size: 12px;
+    background-color: var(--azul-claro);
+    margin: 0 auto;
+}
+.title{
+    color: white;
+    background-color: var(--azul-escuro);
+}
+.title2{
+    background-color: var(--azul-medio);
+}
+.bold{
+    font-weight: bold;
+}
+.normal{
+    font-weight: normal;
+}
+.pos{
+    width: 10%;
+    background-color: silver;
+}
+.pop{
+    width: 15%;
+}
+.city{
+    color: var(--azul-escuro);
+}
+td{
+    margin: 2px 2px 2px 2px;
+    padding: 2px 2px 2px 2px;
+}
